@@ -9,7 +9,7 @@ namespace DemoApplication
     {
         static void Main(string[] args)
         {
-            Console.Write("student number");
+            Console.Write("48845");
 
             Console.ReadKey();
         }
